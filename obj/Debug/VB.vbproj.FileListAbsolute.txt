@@ -1,0 +1,11 @@
+D:\work\VB.NET\VB\bin\Debug\VB.exe.config
+D:\work\VB.NET\VB\bin\Debug\VB.exe
+D:\work\VB.NET\VB\bin\Debug\VB.pdb
+D:\work\VB.NET\VB\bin\Debug\VB.xml
+D:\work\VB.NET\VB\obj\Debug\VB.vbproj.AssemblyReference.cache
+D:\work\VB.NET\VB\obj\Debug\VB.Resources.resources
+D:\work\VB.NET\VB\obj\Debug\VB.vbproj.GenerateResource.cache
+D:\work\VB.NET\VB\obj\Debug\VB.vbproj.CoreCompileInputs.cache
+D:\work\VB.NET\VB\obj\Debug\VB.exe
+D:\work\VB.NET\VB\obj\Debug\VB.xml
+D:\work\VB.NET\VB\obj\Debug\VB.pdb
